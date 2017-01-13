@@ -22,4 +22,6 @@ body {
 .title {
   font-size: 196px;
   font-weight: bold;
-  color: yellow; }
+  color: yellow;
+  line-height: 10;
+  letter-spacing: 50px; }
