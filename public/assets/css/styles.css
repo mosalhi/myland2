@@ -13,8 +13,7 @@ body {
 .container {
   text-align: center;
   display: table-cell;
-  vertical-align: middle;
-  background: blue; }
+  vertical-align: middle; }
 
 .content {
   text-align: center;

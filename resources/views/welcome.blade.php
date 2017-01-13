@@ -10,7 +10,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel Salhi 1465</div>
+                <div class="title">Laravel Salhi 1</div>
             </div>
         </div>
     </body>
